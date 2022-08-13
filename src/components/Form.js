@@ -5,7 +5,6 @@ import { GoDiffAdded } from 'react-icons/go'
 const Form = ({ setInputText, todos, setTodos, inputText, setFilter }) => {
 
   const inputTextHandler = (e) =>{
-    console.log(e.target.value);
     setInputText(e.target.value);
   }
 
