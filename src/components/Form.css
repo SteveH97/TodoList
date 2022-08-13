@@ -1,0 +1,19 @@
+.todo-form{
+    display: flex;
+    flex-direction: row;
+}
+
+.todo-input{
+    border-style: none;
+}
+
+.todo-button{
+    border-style: none;
+    background-color: white;
+}
+
+
+
+.select{
+    padding-left: 1rem;
+}

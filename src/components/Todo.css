@@ -1,0 +1,26 @@
+.todo{
+    display: flex;
+    padding: .25rem;
+}
+
+.todo__item{
+    width: 10rem;
+    list-style: none;
+    background-color: white;
+}
+
+.todo__completed{
+    text-decoration: line-through;
+}
+
+.todo__buttonCheck{
+    border-style: none;
+}
+
+.todo__buttonTrash{
+    border-style: none;
+}
+
+.todo__i{
+    
+}

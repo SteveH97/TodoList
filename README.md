@@ -1,0 +1,1 @@
+A small simple Todo List which i used to practice and learn some of Reacts hooks like useState and useEffect as well as learning how to launch the app on github.

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+
+:root{
+  --font-base: 'Nanum Pen Script', cursive;
+
+  --background-color: #EDEADE;
+  --darkmode-color: #515A61;
+  --primary-color:#638ED4;
+  --secondary-color: #D48479;
+  --triary-color:#B1D44E;
+
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100%;
+  font-family: var(--font-base);
+}
+
